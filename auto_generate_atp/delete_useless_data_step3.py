@@ -146,7 +146,7 @@ def read_data(file_path, is_train):
     return decl2data, init_states, init_state2decl, decl2lemma_line
 
 import json 
-from lean_server_step3 import *
+from lean_server_step import *
 import copy
 import random
 from tqdm import tqdm
