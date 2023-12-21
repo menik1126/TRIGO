@@ -1,0 +1,14 @@
+model*/
+logs/
+imgs/
+old/
+sample/
+cache/
+data/
+eval_result/
+datasets/cleaned_training_data/data_and_metadata.csv
+tensorboard_summary/
+__pycache__/
+lean_gym/_target/
+gpt2-medium-local/
+test.py
